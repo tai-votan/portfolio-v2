@@ -1,0 +1,14 @@
+{
+  "HEADER": {
+    "introduction": "INTRODUCTION",
+    "about_me": "ABOUT ME",
+    "services": "SERVICES",
+    "contact": "CONTACT"
+  },
+  "INTRODUCTION": {
+    "title": "I'M TAI VO TAN",
+    "position": "SOFTWARE ENGINEER",
+    "description": "I'm a web designer & front‑end developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.",
+    "more_about_me": "MORE ABOUT ME"
+  }
+}

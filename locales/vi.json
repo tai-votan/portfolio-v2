@@ -1,0 +1,14 @@
+{
+  "HEADER": {
+    "introduction": "GIỚI THIỆU",
+    "about_me": "VỀ TÔI",
+    "services": "DỊCH VỤ",
+    "contact": "LIÊN HỆ"
+  },
+  "INTRODUCTION": {
+    "title": "I'M VÕ TẤN TÀI",
+    "position": "KỸ SƯ PHẦN MỀM",
+    "description": "Tôi là nhà thiết kế web và nhà phát triển giao diện người dùng, tập trung vào việc tạo ra những trải nghiệm rõ ràng và thân thiện với người dùng, tôi đam mê xây dựng phần mềm xuất sắc giúp cải thiện cuộc sống của những người xung quanh.",
+    "more_about_me": "NHIỀU HƠN VỀ TÔI"
+  }
+}
